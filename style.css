@@ -53,6 +53,7 @@ nav ol li:hover{
     color:  white;
     border-radius: 20px;
     transition: 0.2s;
+    cursor: pointer;
 }
 
  nav .finder{
