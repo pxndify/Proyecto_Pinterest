@@ -145,6 +145,7 @@ nav ol li:hover{
     height: auto;
     break-inside: avoid;
     margin-bottom: 10px;
+    cursor: zoom-in;
    
    
 }
@@ -153,7 +154,6 @@ nav ol li:hover{
    
     max-width: 100%;
     border-radius: 25px;
-    cursor: pointer;
     display: block;
     object-fit: cover;
     
@@ -176,16 +176,19 @@ nav ol li:hover{
 .save:hover{
     color: white;
     background-color: red;
+    cursor: pointer;
 }
 .dots:hover{
     background-color: white;
     filter: opacity(100%);
+    cursor: pointer;
 
 }
 .down:hover{
    
     background-color: white;
     filter: opacity(100%);
+    cursor: pointer;
 
 }
 
@@ -207,6 +210,7 @@ nav ol li:hover{
     margin: 13px;
     position: absolute; 
     filter: opacity(96%);
+    cursor: pointer;
    
    
 }
@@ -226,7 +230,7 @@ nav ol li:hover{
 }
 
 .dots{
-    
+   
     height: auto;
     width: 32px;
     margin-top: -50px;
@@ -236,9 +240,6 @@ nav ol li:hover{
     background-color: white;
     filter: opacity(70%);
     padding: 5px;
- 
-    
-
 }
 
 
@@ -277,3 +278,4 @@ nav ol li:hover{
     }
     
 }
+
