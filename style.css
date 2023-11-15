@@ -166,6 +166,8 @@ nav ol li:hover{
    transition: 0.4;
    background-color: grey;
    border-radius: 25px;
+   cursor: zoom-in;
+   
   
 }
 
